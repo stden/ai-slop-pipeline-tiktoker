@@ -24,3 +24,7 @@ npm-debug.log*
 # TypeScript
 *.tsbuildinfo
 .env
+
+# mise writes mise.lock with checksums for installed tools.
+# It is machine-specific, so it is not stored in git.
+mise.lock
